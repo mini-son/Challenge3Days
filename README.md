@@ -10,4 +10,3 @@
 6. DBA(DB관리,ERD작성)
   
 
-[발표PPT.pptx](https://github.com/mini-son/Challenge3Days/files/12616402/07.PPT.pptx)
