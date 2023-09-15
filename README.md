@@ -9,4 +9,5 @@
 5. 챌린지 도전 기능
 6. DBA(DB관리,ERD작성)
   
-[발표PPT.pdf](https://github.com/mini-son/Challenge3Days/files/12616394/07.PPT.pdf)
+
+[발표PPT.pptx](https://github.com/mini-son/Challenge3Days/files/12616402/07.PPT.pptx)
