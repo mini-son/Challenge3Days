@@ -28,5 +28,12 @@
 3. 챌린지(카테고리별) 목록조회, 상세조회, 작성, 수정, 삭제
 4. 챌린지 성공 소감 게시판
 5. 챌린지 도전 기능
+
+
+<br/>   
   
+## 소스 코드
+- 메인페이지  
+https://github.com/mini-son/Challenge3Days/tree/master/src/chall  
+https://github.com/mini-son/Challenge3Days/tree/master/WebContent/view/chall  
 
